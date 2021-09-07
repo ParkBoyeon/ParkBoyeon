@@ -27,6 +27,7 @@ I’m <b>Backend Developer</b> using java, jsp and spring framework
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParkBoyeon&repo=ParkBoyeon&theme=buefy)](https://github.com/ParkBoyeon/ParkBoyeon)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParkBoyeon&repo=ilchooL&theme=buefy)](https://github.com/ParkBoyeon/ilchooL)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParkBoyeon&repo=Academic Management&theme=buefy)](https://github.com/ParkBoyeon/Academic Management)
 
 [ilchooL 프로젝트 (http://itproject.ezenac.co.kr/ilchooL/)](http://itproject.ezenac.co.kr/ilchooL/)
 
