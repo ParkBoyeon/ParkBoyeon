@@ -17,14 +17,14 @@ I’m <b>Backend Developer</b> using java, jsp and spring framework
 <br>
 <br>
 
-[💙 ilchooL 프로젝트 바로가기 --> http://itproject.ezenac.co.kr/ilchooL/ 💙](http://itproject.ezenac.co.kr/ilchooL/)
+[💙 spring_ilchooL 프로젝트 바로가기 --> http://itproject.ezenac.co.kr/ilchooL/ 💙](http://itproject.ezenac.co.kr/ilchooL/)
 <!-- - 👀 I’m interested in ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
  -->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParkBoyeon&repo=ParkBoyeon&theme=buefy)](https://github.com/ParkBoyeon/ParkBoyeon)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParkBoyeon&repo=ilchooL&theme=buefy)](https://github.com/ParkBoyeon/ilchooL)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParkBoyeon&repo=spring_ilchooL&theme=buefy)](https://github.com/ParkBoyeon/spring_ilchooL)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParkBoyeon&repo=Academic-Management&theme=buefy)](https://github.com/ParkBoyeon/Academic-Management)
 
 
