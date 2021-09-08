@@ -23,6 +23,7 @@
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParkBoyeon&repo=ParkBoyeon&theme=buefy)](https://github.com/ParkBoyeon/ParkBoyeon) -->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParkBoyeon&repo=spring_ilchooL&theme=buefy)](https://github.com/ParkBoyeon/spring_ilchooL)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParkBoyeon&repo=Study-Javat&theme=buefy)](https://github.com/ParkBoyeon/Study-Java)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParkBoyeon&repo=Academic-Management&theme=buefy)](https://github.com/ParkBoyeon/Academic-Management)
 
 <br><br>
