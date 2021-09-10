@@ -48,6 +48,6 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](bo3893@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/ParkBoyeon)
-[![Notion](https://img.shields.io/badge/Notion-003366?style=flat-square&logo=Notion&logoColor=white)](https://courageous-sidewalk-baa.notion.site/STUDY-ba91174e1864497fbedd7c68c728ab35)
+[![Notion](https://img.shields.io/badge/Notion-003366?style=flat-square&logo=Notion&logoColor=white)](https://courageous-sidewalk-baa.notion.site/STUDY-ba91174e1864497fbedd7c68c728ab35) 
 
 </div>
